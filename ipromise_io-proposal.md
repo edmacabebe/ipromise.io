@@ -13,9 +13,6 @@ that emits pre-agreed conditions of quality. A specific use-case that we would w
   * Immutable provenance and historical traceability from food, medicine, dry-goods, etc. is essential in
     ensuring quality, authenticity, and greater accountability to its management in the supply/value-chain.
 
-  * Skilled resource achievements while performing from the Academe down to its career lifetime could be tracked for 
-    rapid deployments to projects. 
-
   * Substrate will be leveraged as the smart contract ledger that defines the desired properties and conditions.
     It will be deployed as a PoC over Kusama platform and eventually for PolkaDot.
 
@@ -24,7 +21,11 @@ that emits pre-agreed conditions of quality. A specific use-case that we would w
     Our intent eventually, is how we could use web3.0 and PolkaDot as a platform to offer more of our software engineering and DevOps capabilities as a service and/or develop DeFi apps. We are collaborating with an
     IoT firm that develops sensors for its pharmaceutical client's use cases.
 
-Other use-cases are for DeFi payments, loan, crowd-funding or mutually pooled funding for Proof-of-Service (masternodes) and Proof-of-Stake (Staking) on managed-service hosted nodes, Agriculture supply-chain, A talent pool for Blockchain-skilled resource.           
+  * Another use case is, Skilled resource pool for dApp product development. We build the pool ideally straight
+    from achievements while performing from the Academe up to its resource' career lifetime achievements where capabilities could easily be matched to projects for rapid resource deployments.
+
+  * Other use-cases are for DeFi payments, loan, crowd-funding or mutually pooled funding for Proof-of-Service 
+    (masternodes) and Proof-of-Stake (Staking) on managed-service hosted nodes, Agriculture supply-chain, A talent pool for Blockchain-skilled resource.           
 
 ### Project Details 
 We expect the teams to already have a solid idea about the project's expected final state.
